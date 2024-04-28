@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/klippx/rubocop_rules.svg?branch=master)](https://travis-ci.org/klippx/rubocop_rules)
 
-# Rubocop Rules
+# Rubocop Rules - try
 
 A common place to house rubocop rule enforcement across projects.
 
